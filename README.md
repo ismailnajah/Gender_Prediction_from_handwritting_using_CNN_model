@@ -1,1 +1,1 @@
-# Gender_Prediction_from_handwritting_using_CNN_model
+# Gender_Prediction_from_handwritting_using_CNN

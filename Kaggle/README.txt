@@ -1,0 +1,1 @@
+this dataset contains diffrent script handwritten images, it can be used to test the performence of the triabned model.
